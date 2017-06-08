@@ -1,20 +1,20 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "V3",
+    "name": "start pagina",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#b8312f",
+        "primaryColor": "#a7a7a7",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
+        "subtitleFont": "Roboto",
+        "textFont": "Roboto",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
@@ -22,13 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 83,
+    "uniqCompNum": 91,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "true",
-    "google-analytics": ""
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
@@ -128,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opgewerkt\">Opgewerkt model</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Plugins\" aria-expanded=\"false\">Plug-ins</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins\">Plug-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-10\">enkel VR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-12\" aria-expanded=\"false\">Link uit BIM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-14\">Bidirectioneel</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"true\">Visie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie\">Visie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-19\">Visie werkveld</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-1b\" aria-expanded=\"false\">Persoonlijke visie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://drive.google.com/open?id=0B9LARMUK77AxdGYxNy1CdUVxOWs\">DOWNLOADS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begrippen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Begrippen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1l\">3grote factors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1v\">Virtual reality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#msg-box8-1m\">VR vs AR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1r\">VR vs AR headsets<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1x\">Specifieke BIM onderdelen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1z\">Game engine features</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opgewerkt\">Opgewerkt model</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Plugins\" aria-expanded=\"false\">Plug-ins</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins\">Plug-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-10\">Enkel VR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-2d\" aria-expanded=\"false\">Link uit BIM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-14\">Bidirectioneel</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">Visie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie\">Visie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-19\">Visie werkveld</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-1b\" aria-expanded=\"false\">Persoonlijke visie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://drive.google.com/open?id=0B9LARMUK77AxdGYxNy1CdUVxOWs\" target=\"_blank\">DOWNLOADS</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -137,7 +136,7 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -151,7 +150,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -164,7 +163,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "Hoe kan je BIM en VR bidirectioneel koppelen?<br>",
+          "title": "Hoe kan je BIM en VR bidirectioneel koppelen<br>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -220,7 +219,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#d14841"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -231,11 +230,24 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000",
+            "bgColor": "#292929",
             "showMeta": true
           },
-          "title": "onderdelen van deze bachelorproef",
+          "title": "Onderdelen van deze bachelorproef",
           "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#292929"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"onderdelen\" data-toolbar=\"-mbrBtnMove\">Niet compleet mee in VR?</a> "
         },
         {
           "_tags": [
@@ -244,7 +256,7 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             ".mbr-section-text": {
               "color": "#efefef"
@@ -256,7 +268,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/sc1-2000x1154.jpg",
-            "bgColor": "#767676",
+            "bgColor": "#909090",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -294,8 +306,8 @@
             }
           },
           "title": "Opgewerkt model",
-          "text": "En eigen workflow om te testen hoe de werking die momenteel in het werkveld gebruikt wordt verder uit &nbsp;gebouwd kan worden zodat informatie teruggestuurd kan worden.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Opgewerkt\" data-toolbar=\"-mbrBtnMove\">More</a>"
+          "text": "Een eigen workflow om te testen hoe de werking die momenteel op de werkvloer gebruikt wordt verder kan uitgebouwd worden voor een betere feedback van informatie.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Opgewerkt\" data-toolbar=\"-mbrBtnMove\">More</a>"
         },
         {
           "_tags": [
@@ -304,10 +316,12 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-text": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "text-align": "left"
             },
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_anchor": "header2-i",
@@ -315,8 +329,8 @@
             "imageSize": "70",
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/crop-2-2000x1431.jpg",
-            "bgColor": "#000000",
+            "bgImage": "@PROJECT_PATH@/assets/images/crop%202-2000x1431.jpg",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -335,7 +349,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/crop-2-2000x1431.jpg",
+              "src": "@PROJECT_PATH@/assets/images/plugins-1.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -354,8 +368,8 @@
             }
           },
           "title": "Plug-ins",
-          "text": "Een simpelere oplosing, voor de meesten bruikbaar. Afhankelijk van &nbsp;je doelen zijn er verschillende programmas, van duur tot gratis, van enkel een rape VR applicatie tot complete interactie vanuit VR,...<br>wil jij de mogelijkheden ook verkennen?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Plugins\" data-toolbar=\"-mbrBtnMove\">More</a>"
+          "text": "Een eenvoudiger oplosing en voor velen bruikbaar. Afhankelijk van &nbsp;je behoeften bestaan er verschillende programmas, van duur tot gratis, van een snelle VR applicatie tot complete interactie vanuit VR,...<br>Wil jij de mogelijkheden ook verkennen?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Plugins\" data-toolbar=\"-mbrBtnMove\">More</a>"
         },
         {
           "_tags": [
@@ -364,7 +378,7 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             ".mbr-section-text": {
               "color": "#efefef"
@@ -376,7 +390,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#767676",
+            "bgColor": "#919191",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -395,7 +409,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/trimble-brings-mixed-reality-construction-site-with-daqri-smart-helmet-1400x656.jpg",
+              "src": "@PROJECT_PATH@/assets/images/visie.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -414,8 +428,8 @@
             }
           },
           "title": "Visie",
-          "text": "Wat kan deze technolgie in detoekomst betekenen voor de bouwsector? welk nut kunnen VR, interactieve VR, en AR hebben in de toekomst?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"visie\" data-toolbar=\"-mbrBtnMove\">More</a>"
+          "text": "Wat kan deze technolgie in de toekomst betekenen voor de bouwsector? <br>Welk nut kunnen VR, interactieve VR, en AR hebben in de toekomst?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"visie\" data-toolbar=\"-mbrBtnMove\">More</a>"
         },
         {
           "_tags": [
@@ -426,9 +440,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000"
+            "bgColor": "#292929"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"onderdelen\" data-toolbar=\"-mbrBtnMove\">Niet alle componenten duidelijk?&nbsp;</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"onderdelen\" data-toolbar=\"-mbrBtnMove\">Niet alle begrippen duidelijk?&nbsp;</a> "
         },
         {
           "_tags": [
@@ -437,7 +451,7 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#000000"
+              "background-color": "#292929"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "color": "#ffffff"
@@ -450,22 +464,22 @@
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "font-size": "20px",
-              "color": "#b8312f"
+              "color": "#a7a7a7"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "font-size": "20px",
-              "color": "#b8312f"
+              "color": "#a7a7a7"
             }
           },
           "_anchor": "features1-22",
           "_params": {
-            "columnsColor": "#000000",
+            "columnsColor": "#292929",
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -491,8 +505,8 @@
           },
           "title1": "School:",
           "subtitle1": "Howest<br>",
-          "caption1": "adress:&nbsp;<br>Rijselstraat 5<br>8200 Brugge<br>mail:<br>brugge@howest.be<br>Telefoon:<br>050381277<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.howest.be/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Site HOwest</a>",
+          "caption1": "adres:&nbsp;<br>Rijselstraat 5<br>8200 Brugge<br>mail:<br>brugge@howest.be<br>Telefoon:<br>050381277<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.howest.be/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Site HOwest</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -503,8 +517,8 @@
           },
           "title2": "Externe begeleider:",
           "subtitle2": "Wouter Van Hauwermeire",
-          "caption2": "Business developer bij POW 3Ddesign<br>adress:<br>Lokerenbaan 114/2<br>9240 Zele<br>mail:<br>info@pow3ddesign.com<br>telefoon:<br>+32 489 56 79 99<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://pow3ddesign.com/nl/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Site POW3Ddesign</a>",
+          "caption2": "Business developer bij POW 3Ddesign<br>adres:<br>Lokerenbaan 114/2<br>9240 Zele<br>mail:<br>info@pow3ddesign.com<br>telefoon:<br>+32 489 56 79 99<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://pow3ddesign.com/nl/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Site POW3Ddesign</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -649,7 +663,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opgewerkt\">Opgewerkt model</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Plugins\" aria-expanded=\"false\">Plug-ins</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins\">Plug-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-10\">enkel VR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-12\" aria-expanded=\"false\">Link uit BIM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-14\">Bidirectioneel</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"true\">Visie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie\">Visie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-19\">Visie werkveld</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-1b\" aria-expanded=\"false\">Persoonlijke visie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://drive.google.com/open?id=0B9LARMUK77AxdGYxNy1CdUVxOWs\">DOWNLOADS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begrippen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Begrippen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1l\">3grote factors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1v\">Virtual reality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#msg-box8-1m\">VR vs AR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1r\">VR vs AR headsets<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1x\">Specifieke BIM onderdelen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1z\">Game engine features</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opgewerkt\">Opgewerkt model</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Plugins\" aria-expanded=\"false\">Plug-ins</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins\">Plug-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-10\">Enkel VR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-2d\" aria-expanded=\"false\">Link uit BIM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-14\">Bidirectioneel</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">Visie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie\">Visie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-19\">Visie werkveld</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-1b\" aria-expanded=\"false\">Persoonlijke visie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://drive.google.com/open?id=0B9LARMUK77AxdGYxNy1CdUVxOWs\" target=\"_blank\">DOWNLOADS</a></li>"
         },
         {
           "_inherit": "header1",
@@ -659,25 +673,25 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#b8312f",
+              "color": "#ffffff",
               "text-align": "center"
             }
           },
           "_anchor": "header4-t",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sc1.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#3e3e3e",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#353535",
             "contentAlign": "center",
             "showTitle": true,
             "showText": false,
@@ -704,7 +718,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#212121",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -729,7 +743,7 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "48px",
-              "color": "#b8312f"
+              "color": "#a7a7a7"
             }
           },
           "_anchor": "header1-u",
@@ -737,7 +751,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3ds-max-2010-lighting.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -746,14 +760,14 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#000",
+            "overlayColor": "#262626",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
-          "title": "een opgewerkt model is een model dat geoptimaliseerd wordt voor VR",
-          "text": "Dit betekent dat zaken zoals muuropbouw, textuuren en polygoonen aangepast wordt, zodat het model zo goed mogelijk in Vr beleefd kan worden zonder \"lag\" en met realistische textuuren. Deze werkwijze maakt meestal gebruik van BIM, een 3D-modelatie pakket voor optimalisatie en een game engine.<br>",
+          "title": "Een opgewerkt model is een model dat geoptimaliseerd wordt voor VR<br><br>",
+          "text": "Dit betekent dat zaken zoals muuropbouw, texturen en polygonen aangepast wordt, zodat het model zo goed mogelijk in VR beleefd kan worden zonder \"lag\" en met realistische texturen. Deze werkwijze maakt meestal gebruik van BIM, een 3D-modeleerpakket voor optimalisatie en een game engine.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -773,7 +787,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#212121",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -794,7 +808,9 @@
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff",
+              "font-size": "36px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
               "color": "#ffffff"
@@ -810,7 +826,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#919191",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -821,7 +837,7 @@
             "overlayColor": "#ccc",
             "inverse": true,
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "showArrow": true
           },
@@ -843,9 +859,148 @@
               "size": 250
             }
           },
-          "title": "Werkwijze om bestanden vanuit BIM naar VR en terug te brengen.",
-          "text": "Full",
+          "title": "Werkwijze om bestanden vanuit Archicad naar VR en terug te brengen met gebruik van Unreal Engine 4.",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#292929",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "autoplay": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "timeout": "10",
+            "slides": [
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "1",
+                "overlayColor": "#7b7b7b",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "VR Game Engines",
+                "showText": true,
+                "text": "Er zijn natuurlijk nog andere Game engines beschikbaar buiten unreal engine. Welke dit zijn en waar ze sterk in zijn zie je hier.<br>Deze lijst is echter beperkt omdat enkel de engines die een connectie hebben naar VR hier besproken worden.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/unity.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Unity",
+                "showText": true,
+                "text": "De sterkte van Unity ligt bij het gebruik op mobiele toestellen, andere engines kunnen dit vaak ook , maar zijn iets zwaarder of minder gemakkelijk. De store biedt reeds vele items en interactieve acties aan, zorgend dat ook een leek een goed project kan maken. Ook de grote en actieve forums zorgen dat je snel geholpen wordt. Een nadeel van deze werkwijze is dat, om nieuwe of andere interactie te maken, je zelf &nbsp;moet scripten en direct van heel simpel naar gigantisch complex kan gaan wanneer je geen kennis hebt van c#.<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://unity3d.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Unity Site</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/unreal-2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Unreal Engine 4",
+                "showText": true,
+                "text": "De door mij gekozen Engine. De scripting manier van unreal: \"Blueprint scripting\" . is een gemakkelijke manier om interactie te voorzien, die echter toch veel vrijheid geeft. Maar hoewel sommige zaken hier simpel in zijn, is er ook voor moeilijkere interactie vaak een goede kennis van deze blueprints nodig.&nbsp;<br>De grafische kwaliteit van unreal is momenteel de beste uit de lijst. Dit zorgt ervoor dat voor pure visualisatie unreal de beste<br>keuze is, zeker als je op computer en &nbsp;VR blijft",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.unrealengine.com/en-US/blog\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Unreal engine 4 Site</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/stingy-1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Stingray",
+                "showText": true,
+                "text": "Stingray is een engine opgekocht en daarna heruitgebracht door Autodesk. Het is een minder gebruikte engine, zodat er minder tutorials te vinden zijn. <br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Momenteel heeft stingray geen speciaal betere connecties naar andere Autodesk software, en is dus niet aan te raden. Maar er zou wel gewerkt worden aan een rechtstreekse revit link. Dit project noemt \"project expo\". Er is momenteel nog weinig info beschikbaar, maar als deze connectie goed tot stand komt, kan dit een grote speler worden.</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Stingray kost als standalone versie 30€ per maand of 240€ per jaar</span><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.autodesk.com/products/stingray/overview\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Stingray Site</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/cryyy.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#000000",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Cry engine",
+                "showText": true,
+                "text": "De cry engine is een grafisch sterke tool. Ook deze engine werkt met blueprints, maar heeft een veel moeilijker leercurve met minder tutorials dan unreal engine. <br>Waar cry engine het meest op inzet is om een visueel zo goed mogelijke omgeving te realiseren.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.cryengine.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Cry engine Site</a> "
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#919191",
+            "showBullets": true
+          },
+          "_anchor": "slider3-2b",
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -856,9 +1011,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000"
+            "bgColor": "#292929"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"onderdelen\" data-toolbar=\"-mbrBtnMove\">Niet alle componenten duidelijk? </a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"onderdelen\" data-toolbar=\"-mbrBtnMove\">Niet alle componenten duidelijk? </a> "
         },
         {
           "_tags": [
@@ -867,7 +1022,7 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#000000"
+              "background-color": "#292929"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "color": "#ffffff"
@@ -880,22 +1035,22 @@
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "font-size": "20px",
-              "color": "#b8312f"
+              "color": "#c1c1c1"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "font-size": "20px",
-              "color": "#b8312f"
+              "color": "#c1c1c1"
             }
           },
           "_anchor": "features1-24",
           "_params": {
-            "columnsColor": "#000000",
+            "columnsColor": "#292929",
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -921,8 +1076,8 @@
           },
           "title1": "School:",
           "subtitle1": "Howest<br>",
-          "caption1": "adress:&nbsp;<br>Rijselstraat 5<br>8200 Brugge<br>mail:<br>brugge@howest.be<br>Telefoon:<br>050381277<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.howest.be/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Site HOwest</a>",
+          "caption1": "adres:&nbsp;<br>Rijselstraat 5<br>8200 Brugge<br>mail:<br>brugge@howest.be<br>Telefoon:<br>050381277<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.howest.be/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Site HOwest</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -933,8 +1088,8 @@
           },
           "title2": "Externe begeleider:",
           "subtitle2": "Wouter Van Hauwermeire",
-          "caption2": "Business developer bij POW 3Ddesign<br>adress:<br>Lokerenbaan 114/2<br>9240 Zele<br>mail:<br>info@pow3ddesign.com<br>telefoon:<br>+32 489 56 79 99<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://pow3ddesign.com/nl/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Site POW3Ddesign</a>",
+          "caption2": "Business developer bij POW 3Ddesign<br>adres:<br>Lokerenbaan 114/2<br>9240 Zele<br>mail:<br>info@pow3ddesign.com<br>telefoon:<br>+32 489 56 79 99<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://pow3ddesign.com/nl/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Site POW3Ddesign</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1079,7 +1234,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opgewerkt\">Opgewerkt model</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Plugins\" aria-expanded=\"false\">Plug-ins</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins\">Plug-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-10\">enkel VR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-12\" aria-expanded=\"false\">Link uit BIM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-14\">Bidirectioneel</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"true\">Visie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie\">Visie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-19\">Visie werkveld</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-1b\" aria-expanded=\"false\">Persoonlijke visie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://drive.google.com/open?id=0B9LARMUK77AxdGYxNy1CdUVxOWs\">DOWNLOADS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begrippen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Begrippen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1l\">3grote factors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1v\">Virtual reality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#msg-box8-1m\">VR vs AR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1r\">VR vs AR headsets<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1x\">Specifieke BIM onderdelen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1z\">Game engine features</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opgewerkt\">Opgewerkt model</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Plugins\" aria-expanded=\"false\">Plug-ins</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins\">Plug-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-10\">Enkel VR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-2d\" aria-expanded=\"false\">Link uit BIM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-14\">Bidirectioneel</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">Visie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie\">Visie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-19\">Visie werkveld</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-1b\" aria-expanded=\"false\">Persoonlijke visie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://drive.google.com/open?id=0B9LARMUK77AxdGYxNy1CdUVxOWs\" target=\"_blank\">DOWNLOADS</a></li>"
         },
         {
           "_inherit": "header1",
@@ -1087,12 +1242,17 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header4-x",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/plugin-1920x1200.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1100,11 +1260,11 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/JPQLEFn8QwM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.4",
             "overlayColor": "#000",
-            "contentAlign": "right",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": false,
             "showButtons": false
@@ -1119,7 +1279,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             ".lead": {
               "color": "#ffffff"
@@ -1136,7 +1296,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#212121",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1150,7 +1310,7 @@
             "showButton": false
           },
           "title": "Plugins zijn een directe export",
-          "text": "Plugins zijn een Software uitbreiding. Dankzij deze plugins is een rappe koppeling naar VR mogelijk en voor iedereen berijkbaar. Er is geen opwerking of aanpassing meer nodig waardoor het model compleet in tact kan blijven.",
+          "text": "Plugins zijn een Software uitbreiding. Dankzij deze plugins is een snelle koppeling naar VR mogelijk en voor iedereen bereikbaar. Er is geen opwerking of aanpassing meer nodig waardoor het model compleet intact kan blijven.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1160,27 +1320,27 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#212121"
+              "background-color": "#292929"
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_anchor": "features1-z",
           "_params": {
-            "columnsColor": "#212121",
+            "columnsColor": "#292929",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#212121",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1206,8 +1366,8 @@
           },
           "title1": "Enkel kopeling naar VR",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Simpel in gebruik, rap en goedkoop. Maar ook beperkt van mogelijkheden. enkel openen en rondlopen, maar interactieve acties zijn beperkt tot onmogelijk. de link met de BIM-software is volledig afgebroken.",
-          "button1": "<a data-app-btn=\"true\" href=\"Plugins#slider-10\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption1": "Simpel in gebruik, snel en goedkoop. Maar wel met beperkte &nbsp;mogelijkheden. Enkel openen en rondlopen, &nbsp;interactieve acties zijn beperkt tot onmogelijk. De link met de BIM-software is volledig afgebroken.",
+          "button1": "<a data-app-btn=\"true\" href=\"Plugins#slider-10\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -1218,8 +1378,8 @@
           },
           "title2": "Link vanuit BIM",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Een link met het programma blijft bestaan. maar aanpassingen kunnen enkel in de BIM software gebeuren. De persoon in VR heeft dus geen aanpassingsmogelijkheden.",
-          "button2": "<a data-app-btn=\"true\" href=\"Plugins#slider-12\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption2": "Een link met het programma blijft bestaan. maar aanpassingen kunnen enkel in de BIM software gebeuren. De VR gebruiker heeft dus geen aanpassingsmogelijkheden.",
+          "button2": "<a data-app-btn=\"true\" href=\"Plugins#slider-12\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1230,8 +1390,8 @@
           },
           "title3": "Bidirectioneel",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Een Directe link met het BIM pakket dat beide kanten opgaat. er is mogelijkheid tot interactie in zowel het BIM pakket als in VR.",
-          "button3": "<a data-app-btn=\"true\" href=\"Plugins#slider-14\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "Een directe link met het BIM pakket dat beide kanten opgaat. Er is mogelijkheid tot interactie in zowel het BIM pakket als in VR.",
+          "button3": "<a data-app-btn=\"true\" href=\"Plugins#slider-14\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -1276,7 +1436,11 @@
           "_name": "slider",
           "_styles": {
             "H2": {
-              "color": "#b8312f"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -1286,7 +1450,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1297,79 +1461,80 @@
                 "showTitle": true,
                 "title": "Enkel koppeling naar VR",
                 "showText": true,
-                "text": "Er zijn 5 programmas die binnen deze kategorie vallen. Ze worden meestal ook geexporteerd naar een extern  programma waardoor de koppeling compleet verbroken worden.",
+                "text": "Er zijn 5 programmas die binnen deze categorie vallen. Ze worden meestal ook geëxporteerd naar een extern  programma waardoor de koppeling compleet verbroken worden.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=dDrAVSJNmRw",
+                "videoUrl": "https://youtu.be/4RLdSsNddfM",
                 "overlay": true,
-                "contentAlign": "left",
+                "overlayOpacity": "0.5",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Iris-VR",
                 "showText": true,
-                "text": "Een zeer rappe opplossing, Ook grafisch de sterkere van de VR plug-ins maar door het verlies van de koppeling zijn er geen interacties meer mogelijk. Het is ook enkel beschikbaar voor Revit, en een ander pijnpunt is de 200€ per maand die het programma kost",
+                "text": "Een zeer snelle opplossing. Ook grafisch de sterkere van de VR plug-ins maar door het verlies van de koppeling zijn er geen interacties meer mogelijk. Het is ook enkel beschikbaar voor Revit, en een ander pijnpunt is de 200€ per maand die het programma kost",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Iris-VR site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://irisvr.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Iris-VR site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=4RLdSsNddfM&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Video</a>"
               },
               {
                 "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=1u0LhuMwcv0",
+                "videoUrl": "https://youtu.be/A7Eh27Z0qhg",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Entiti",
                 "showText": true,
-                "text": "De sterkte van entiti ligt in het kunnen maken van interactie. Na exportatie balnd je model in  de entiti editor waar je het model verder interactief kunt maken met blueprints.<br>Het is gratis, maar enkel voor Revit beschikbaar, en verliest de link  met je model na exportatie.<br>",
+                "text": "De sterkte van entiti ligt in het kunnen maken van interactie. Na export belandt je model in  de entiti editor waar je het model verder interactief kunt maken met blueprints.<br>Het is gratis, maar enkel voor Revit beschikbaar, je verliest de link  met je BIM-model na export.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Entiti site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">video</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.wakingapp.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Entiti site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=1u0LhuMwcv0&amp;t=116s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">video</a>"
               },
               {
                 "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=_IXmHsQbakM",
+                "videoUrl": "https://youtu.be/v49i_Zfw4KE",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Revit live",
                 "showText": true,
-                "text": "Zoals je reed kan vermoeden,een autodesk oplossing.<br> Het sterke punt hiervan, is dat je van elk object de data kan bijkijken in VR, maar niet aanpassen. Het behoort bij de grafisch sterkere. maar de minpunten zijn dat  er geen interactie mogenlijk is, hiervoor wordt een link naar stingray voorzien.<br>Ook het 250 tot 300€ kostenplaatje per jaar kan hierbij meespelen.<br>",
+                "text": "Zoals je reeds kunt vermoeden, een Autodesk oplossing.<br> Het sterke punt hiervan is, dat je van elk object de data kan bekijken, maar niet aanpassen, in VR. Het behoort bij de grafisch sterkere opties. Minpunt is dat  er geen interactie mogenlijk is. Hiervoor wordt een link naar stingray voorzien.<br>Ook het 250 tot 300€ kostenplaatje per jaar speelt een rol.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Revit live site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">video</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.autodesk.com/products/revit-live/overview\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Revit live site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=_IXmHsQbakM&amp;t=22s\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">video</a>"
               },
               {
                 "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=IRMzUz1Q0PE",
+                "videoUrl": "https://youtu.be/MafUpPG5uOM",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "BIMx",
                 "showText": true,
-                "text": "De archicad oplosing:  eigenlijk een mobiele app, bedoeld om zaken op plan aan te duiden. Maar er zit ook een VR  deel in,<br>bedoeld om met cardboard headset te bekijken.<br>Er zit echter geen interactie in, en het is enkel voor archicad bruikbaar.<br>",
+                "text": "De archicad oplossing:  eigenlijk een mobiele app, bedoeld om zaken op plan aan te duiden. Maar er zit ook een VR  deel in,<br>bedoeld om met cardboard headset te bekijken.<br>Er is geen interactie beschikbaar en is enkel voor archicad bruikbaar.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BIMx site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">video</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.graphisoft.com/bimx/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BIMx site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=24zTpFB2tRo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">video</a>"
               },
               {
                 "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=SFFpYpXZc6I",
+                "videoUrl": "https://youtu.be/Dk36xtpM52I",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "VIMaec",
                 "showText": true,
-                "text": "Een andere speler op de markt, maar een die ik zelf niet heb kunnen proberen doordat ik geen studenten licensie kreeg. <br>hierdoor kon ik geen onderbouwde conclusie maken.<br>",
+                "text": "Een andere speler op de markt, maar een die ik zelf niet heb kunnen uitproberen omdat ik geen student- licensie kreeg. <br>Hierdoor kan ik geen onderbouwde conclusie maken.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIMaec site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">video</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.vimaec.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIMaec site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=SFFpYpXZc6I\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">video</a>"
               }
             ],
             "fullScreen": true,
@@ -1396,7 +1561,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#212121",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1420,10 +1585,10 @@
           "_name": "slider",
           "_styles": {
             "H2": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_params": {
@@ -1433,7 +1598,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1442,32 +1607,32 @@
                 "overlayColor": "#919191",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Bidirectioneele VR",
+                "title": "Aanpassings mogelijkheden vanuit BIM",
                 "showText": true,
-                "text": "Het uiteindelijk doel, rechtstreekse connectie vanuit zowel BIM als VR met interactie, Maar ook hier is er slechts 1 programma van op de markt<br>",
+                "text": "aanpasbaarheid vanuit BIM betekent dat je in je BIM-software aanpassingen kan maken en deze naar VR kan brengen. Hierdoor kan je vlug inspelen op feedback. De persoon in de VR kan wel zelf geen aanpassingen doen en moet of zal vaak de headset afdoen om mee te kijken wat er op het scherm gebeurt.<br>Er is echter ook maar één programma dat deze optie momenteel heeft.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=KwWe6JiyQqw",
+                "videoUrl": "https://youtu.be/ftx-kDAP8Go",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Fuzor",
+                "title": "Enscape",
                 "showText": true,
-                "text": "Fuzor is op vele vlakken uniek: het heeft een connectie met meerdere 3D en bim-software, een directe link tussen VR en BIM, mogelijkheid tot interactie en kleine detail aanpassingen binnen de fuzor editor die je model nog realistischer kunnen maken. Maar aan al deze zaken hangt natuurlijk een prijskaartje: zo'n 3250€ per jaar of 300€ per maand voor de versie met goede interactie.<br>",
+                "text": "Voor een vlotte interactie zijn er bij enscape altijd twee mensen nodig: de eerste die als klant of bezoeker in VR rondloopt en wijzigingen wil aanbrengen en een tweede persoon als operator van de BIM-software die aanpassingen maakt op basis van de gegeven feedback. Als persoon in de VR omgeving kan dit echter raar aanvoelen. Extra minpunten van Enscape zijn dat er vaak haperingen zijn en de grafische kwaliteit niet optimaal is.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fuzor site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">video</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://enscape3d.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enscape Site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.youtube.com/watch?v=KwWe6JiyQqw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Video</a> "
               }
             ],
             "fullScreen": true,
             "bgColor": "#fff",
             "showBullets": true
           },
-          "_anchor": "slider-12",
+          "_anchor": "slider-2d",
           "articleLayout": false
         },
         {
@@ -1487,7 +1652,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#212121",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1511,10 +1676,10 @@
           "_name": "slider",
           "_styles": {
             "H2": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_params": {
@@ -1535,7 +1700,7 @@
                 "showTitle": true,
                 "title": "Bidirectioneele VR",
                 "showText": true,
-                "text": "Het uiteindelijk doel, rechtstreekse connectie vanuit zowel BIM als VR met interactie, Maar ook hier is er slechts 1 programma van op de markt<br>",
+                "text": "Het uiteindelijk doel, rechtstreekse connectie vanuit zowel BIM als VR met interactie, maar ook hier is er slechts één programma van op de markt<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -1543,15 +1708,15 @@
                 "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=KwWe6JiyQqw",
+                "videoUrl": "https://youtu.be/llZb_6aCLkM",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Fuzor",
                 "showText": true,
-                "text": "Fuzor is op vele vlakken uniek: het heeft een connectie met meerdere 3D en bim-software, een directe link tussen VR en BIM, mogelijkheid tot interactie en kleine detail aanpassingen binnen de fuzor editor die je model nog realistischer kunnen maken. Maar aan al deze zaken hangt natuurlijk een prijskaartje: zo'n 3250€ per jaar of 300€ per maand voor de versie met goede interactie.<br>",
+                "text": "Fuzor is op vele vlakken uniek: het heeft een connectie met meerdere 3D en bim-software, een directe link tussen VR en BIM, mogelijkheid tot interactie en kleine detail aanpassingen binnen de fuzor editor die je model nog realistischer kunnen maken. Maar aan al deze zaken hangt natuurlijk een prijskaartje: zo'n 3250€ per jaar of 300€ per maand voor de versie met goede interactie. Er is ook een versie om enkel in VR rond te lopen, zodat je ook zonder de BIM software je model kan verkennen, hier is uiteraard wel geen interactie meer mogelijk.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Fuzor site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">video</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.kalloctech.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Fuzor site</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.youtube.com/watch?v=6ITnApUK5rI\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">video</a>"
               }
             ],
             "fullScreen": true,
@@ -1562,51 +1727,17 @@
           "articleLayout": false
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-15",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#212121",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-1j",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#000000"
+            "bgColor": "#292929"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"onderdelen\" data-toolbar=\"-mbrBtnMove\">Niet alle componenten duidelijk? </a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"onderdelen\" data-toolbar=\"-mbrBtnMove\">Niet alle componenten duidelijk? </a> "
         },
         {
           "_tags": [
@@ -1615,7 +1746,7 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#000000"
+              "background-color": "#292929"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "color": "#ffffff"
@@ -1628,22 +1759,22 @@
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "font-size": "20px",
-              "color": "#b8312f"
+              "color": "#c1c1c1"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "font-size": "20px",
-              "color": "#b8312f"
+              "color": "#c1c1c1"
             }
           },
           "_anchor": "features1-27",
           "_params": {
-            "columnsColor": "#000000",
+            "columnsColor": "#292929",
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1669,8 +1800,8 @@
           },
           "title1": "School:",
           "subtitle1": "Howest<br>",
-          "caption1": "adress:&nbsp;<br>Rijselstraat 5<br>8200 Brugge<br>mail:<br>brugge@howest.be<br>Telefoon:<br>050381277<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.howest.be/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Site HOwest</a>",
+          "caption1": "adres:&nbsp;<br>Rijselstraat 5<br>8200 Brugge<br>mail:<br>brugge@howest.be<br>Telefoon:<br>050381277<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.howest.be/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Site HOwest</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -1681,8 +1812,8 @@
           },
           "title2": "Externe begeleider:",
           "subtitle2": "Wouter Van Hauwermeire",
-          "caption2": "Business developer bij POW 3Ddesign<br>adress:<br>Lokerenbaan 114/2<br>9240 Zele<br>mail:<br>info@pow3ddesign.com<br>telefoon:<br>+32 489 56 79 99<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://pow3ddesign.com/nl/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Site POW3Ddesign</a>",
+          "caption2": "Business developer bij POW 3Ddesign<br>adres:<br>Lokerenbaan 114/2<br>9240 Zele<br>mail:<br>info@pow3ddesign.com<br>telefoon:<br>+32 489 56 79 99<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://pow3ddesign.com/nl/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Site POW3Ddesign</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1749,9 +1880,9 @@
           "_anchor": "header4-17",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/producthero.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1759,9 +1890,9 @@
               "height": 720,
               "url": "https://www.youtube.com/embed/t5ixBsHPMxk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.2",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -1769,7 +1900,7 @@
             "showButtons": false
           },
           "title": "Visie",
-          "text": "Wat is het nut van deze bachelorproef? Welke kansen bied Vr voor de bouwwereld en hoe kan de connectie met BIM hierbij helpen?",
+          "text": "Wat is het nut van deze bachelorproef? <br>Welke kansen bied VR voor de bouwwereld en hoe kan de connectie met BIM hierbij helpen?",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -1859,7 +1990,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opgewerkt\">Opgewerkt model</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Plugins\" aria-expanded=\"false\">Plug-ins</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins\">Plug-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-10\">enkel VR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-12\" aria-expanded=\"false\">Link uit BIM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-14\">Bidirectioneel</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"true\">Visie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie\">Visie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-19\">Visie werkveld</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-1b\" aria-expanded=\"false\">Persoonlijke visie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://drive.google.com/open?id=0B9LARMUK77AxdGYxNy1CdUVxOWs\">DOWNLOADS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begrippen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Begrippen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1l\">3grote factors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1v\">Virtual reality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#msg-box8-1m\">VR vs AR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1r\">VR vs AR headsets<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1x\">Specifieke BIM onderdelen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1z\">Game engine features</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opgewerkt\">Opgewerkt model</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Plugins\" aria-expanded=\"false\">Plug-ins</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins\">Plug-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-10\">Enkel VR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-2d\" aria-expanded=\"false\">Link uit BIM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-14\">Bidirectioneel</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">Visie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie\">Visie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-19\">Visie werkveld</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-1b\" aria-expanded=\"false\">Persoonlijke visie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://drive.google.com/open?id=0B9LARMUK77AxdGYxNy1CdUVxOWs\" target=\"_blank\">DOWNLOADS</a></li>"
         },
         {
           "_styles": {
@@ -1878,7 +2009,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#212121",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1902,17 +2033,21 @@
           "_name": "slider3",
           "_styles": {
             "H2": {
-              "color": "#b8312f"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1923,41 +2058,42 @@
                 "showTitle": true,
                 "title": "Visie vanuit het werkveld",
                 "showText": true,
-                "text": "VR, AR, interactie,... Dit zijn allemaal dingen waar de bouwwereld niet vertrouwd mee is. Maar wat kan ze betekennen",
+                "text": "Virtual Reality , Augmented Reality, interactie,... <br>Dit zijn allemaal dingen waar de bouwwereld niet<br> vertrouwd mee is.<br> Maar wat kunnen ze betekenen?",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
+                "image": "@PROJECT_PATH@/assets/images/connection.jpg",
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Nut Van Connectie tussen VR en BIM?",
                 "showText": true,
-                "text": "Keuze uit mooie keukens, beslissen waar je stopcontacten komen, zelf kasten openen om te weten of ze goed staan,..&nbsp;<br>Al deze interactie zijn reeds mogelijk in VR, en met terug kopeling zouden de aanpassingen direct juist staan op plan, zorgend voor een snelle werkmanier om gegevens door te geven aan de meubelbouwer, de electicien, de loodgieter en nog zoveel meer mensen. Mensen zouden ook de kosten van hun aanpassingen kunnen zien en direct ook visualisaties, 360 videos of zelfs een doorwandelbaar model kunnen meekrijgen om te toonen aan vrienden of familie",
+                "text": "Keuze uit mooie keukens, beslissen waar de stopcontacten komen, zelf kasten openen om te weten of ze goed staan,..&nbsp;<br>Al deze interacties zijn reeds mogelijk in VR, en met terug koppeling zouden de aanpassingen direct juist staan op plan, zorgend voor een snelle werkwijze om gegevens door te geven aan de meubelbouwer, de electrieker, de loodgieter en anderen. <br>De opdrachtgever(s) of anderen zouden ook de invloed van hun aanpassingen op de kostprijs kunnen zien en direct ook visualisaties, 360 videos of zelfs een doorwandelbaar model kunnen meekrijgen om te tonen aan vrienden of familie",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/wp.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/augmented.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "left",
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Live feedback vanop de werf",
                 "showText": true,
-                "text": "Om te kunnen zien wat je werkman op de werf ziet. Om naar een voorwerp te kunnen kijken en direct, met een virtuele overlap te testen of de positie klopt. Deze zaken zullen de bouwwereld revolutionair veranderen. De link tussen AR &nbsp;en BIM &nbsp;met interactie die je toelaat om zowel fouten op plannen als fouten op de werf direct te controleren. &nbsp;Het is momenteel nog toekomstmuziek, maar muziek met een heel mooie symfonie voor de bouwwereld.",
+                "text": "Om te kunnen zien wat je werkman op de werf ziet. Om naar een voorwerp te kunnen kijken en direct, met een virtuele overlap te testen of de positie klopt. Deze zaken zullen de bouwwereld revolutionair veranderen. De link tussen AR &nbsp;en BIM &nbsp;met interactie die je toelaat om zowel fouten op plannen als fouten op de werf direct te controleren. &nbsp;<br>Deze technologie staat nog niet helemaal op punt staat maar eens ze, binnen enkele jaren, volledig ontwikkeld is, kan zij zeer nuttig zijn voor de bouwwereld.<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
-            "bgColor": "#353535",
+            "bgColor": "#919191",
             "showBullets": true
           },
           "_anchor": "slider3-28",
@@ -1980,7 +2116,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#212121",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2001,38 +2137,78 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#b8312f"
-            },
-            ".mbr-section-lead": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "header1-1b",
+          "_name": "slider",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/sc1-2000x1154.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "autoplay": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/plugins-1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "1",
+                "overlayColor": "#7b7b7b",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Conclusie",
+                "showText": true,
+                "text": "Hoe haalbaar is het momenteel om VR en BIM te linken, en welke methode gebruik jij het best?",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sc1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Conclusie eigen workflow",
+                "showText": true,
+                "text": "De workflow die beschreven wordt bij opgewerkt model is nog niet optimaal, er zijn maar beperkte mogelijkheden en de aanpassingen gebeuren niet automatisch. De aanpassingen kunnen vaak al sneller gemaakt worden in de BIM-software.<br>Er wordt echter wel aan een betere workflow gewerkt vanuit Unreal engine, al is hierover nog geen verdere info beschikbaar. Ook vanuit Autodesk wordt er onderzoek gedaan, onder de naam Project expo. Maar ook hierover is nog geen verder info beschikbaar.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/plugins-1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Conclusie plug-ins",
+                "showText": true,
+                "text": "De besproken plug-ins zijn in enkele jaren sterk gegroeid, en beloven dit te blijven doen.<br>De meesten van hun hebben een voting system dat de klanten laat kiezen wat ze als eerst verbeterd willen zien. Momenteel heeft enkel Fuzor een bidirectionele link, maar ook de andere plug-ins zijn aan het zoeken naar een betere connectie met-BIM.<br>Momenteel zijn plug-ins beperkt tot VR omdat AR nog in de kinderschoenen staat, maar binnen enkele jaren zullen koppelingen met AR mogelijk zijn en kunnen plug-ins met een directe link van BIM naar augmented reality op de werf aangeboden worden.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/future-2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "what to use",
+                "showText": true,
+                "text": "Om op deze vraag te antwoorden zijn er twee grote vragen:<br>1)\tWat is je doel?    2) Heb je ervaring met game engines?<br>Als je als doel hebt om een interactieve VR te gebruiken die als verkoopsmiddel dient waarmee je mensen (klanten) echt wilt overtuigen om jouw woning (ontwerp) te kopen dan blijft een opgewerkt model kwalitatief mooier en geeft het je meer vrijheid. <br>Als je geen ervaring hebt met game engines is dit echter een moeilijke opgave en zal je hulp nodig hebben om tot een mooi eindresultaat te komen.<br>Als je doel echter is om de klant zijn appartement te laten inrichten en aanpassen naar zijn eigen keuzes, of om de dimensies tijdens het ontwerpen te laten aanvoelen, is een plug-in een betere optie. Het model kan veel sneller naar een doorwandelbaare VR omgeving omgezet worden. Ook heb je daarvoor geen ervaring met game engines nodig.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#919191",
+            "showBullets": true
           },
-          "title": "Mijn eigen visie",
-          "text": "sterke groei, voor bouwwereld zou AR een heel grote impact kunnen hebben",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "_anchor": "slider-2i",
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -2043,9 +2219,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000"
+            "bgColor": "#292929"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"onderdelen\" data-toolbar=\"-mbrBtnMove\">Niet alle componenten duidelijk? </a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"onderdelen\" data-toolbar=\"-mbrBtnMove\">Niet alle componenten duidelijk? </a> "
         },
         {
           "_tags": [
@@ -2054,7 +2230,7 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#000000"
+              "background-color": "#292929"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "color": "#ffffff"
@@ -2067,22 +2243,22 @@
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "font-size": "20px",
-              "color": "#b8312f"
+              "color": "#c1c1c1"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "font-size": "20px",
-              "color": "#b8312f"
+              "color": "#c1c1c1"
             }
           },
           "_anchor": "features1-29",
           "_params": {
-            "columnsColor": "#000000",
+            "columnsColor": "#292929",
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2108,8 +2284,8 @@
           },
           "title1": "School:",
           "subtitle1": "Howest<br>",
-          "caption1": "adress:&nbsp;<br>Rijselstraat 5<br>8200 Brugge<br>mail:<br>brugge@howest.be<br>Telefoon:<br>050381277<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.howest.be/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Site HOwest</a>",
+          "caption1": "adres:&nbsp;<br>Rijselstraat 5<br>8200 Brugge<br>mail:<br>brugge@howest.be<br>Telefoon:<br>050381277<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.howest.be/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Site HOwest</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -2120,8 +2296,8 @@
           },
           "title2": "Externe begeleider:",
           "subtitle2": "Wouter Van Hauwermeire",
-          "caption2": "Business developer bij POW 3Ddesign<br>adress:<br>Lokerenbaan 114/2<br>9240 Zele<br>mail:<br>info@pow3ddesign.com<br>telefoon:<br>+32 489 56 79 99<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://pow3ddesign.com/nl/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Site POW3Ddesign</a>",
+          "caption2": "Business developer bij POW 3Ddesign<br>adres:<br>Lokerenbaan 114/2<br>9240 Zele<br>mail:<br>info@pow3ddesign.com<br>telefoon:<br>+32 489 56 79 99<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://pow3ddesign.com/nl/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Site POW3Ddesign</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -2266,35 +2442,45 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Home</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opgewerkt\">Opgewerkt model</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Plugins\" aria-expanded=\"false\">Plug-ins</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins\">Plug-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-10\">enkel VR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-12\" aria-expanded=\"false\">Link uit BIM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-14\">Bidirectioneel</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"true\">Visie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie\">Visie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-19\">Visie werkveld</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-1b\" aria-expanded=\"false\">Persoonlijke visie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://drive.google.com/open?id=0B9LARMUK77AxdGYxNy1CdUVxOWs\">DOWNLOADS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#top\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Begrippen</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Begrippen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1l\">3grote factors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1v\">Virtual reality</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#msg-box8-1m\">VR vs AR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1r\">VR vs AR headsets<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1x\">Specifieke BIM onderdelen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onderdelen#slider3-1z\">Game engine features</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Opgewerkt\">Opgewerkt model</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Plugins\" aria-expanded=\"false\">Plug-ins</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins\">Plug-ins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-10\">Enkel VR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-2d\" aria-expanded=\"false\">Link uit BIM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Plugins#slider-14\">Bidirectioneel</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">Visie</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie\">Visie</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-19\">Visie werkveld</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"visie#header1-1b\" aria-expanded=\"false\">Persoonlijke visie</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://drive.google.com/open?id=0B9LARMUK77AxdGYxNy1CdUVxOWs\" target=\"_blank\">DOWNLOADS</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header1-1d",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/question-mark-1940x900.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "Onderdelen van deze bachelorproef uitgelegd.",
-          "text": "Niet zo mee in VR?  een kleine  heropfrissing nodig?<br>hieronder kan je de belangrijkste zaken nog even nalezen.&nbsp;<br>",
+          "title": "Begrippen uit deze bachelorproef uitgelegd.<br>",
+          "text": "<br>Niet zo mee in VR? Een kleine  heropfrissing nodig?<br>Hieronder kan je de belangrijkste zaken nog even nalezen.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -2304,17 +2490,17 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#212121"
+              "background-color": "#292929"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#b8312f"
+              "color": "#c1c1c1"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "color": "#ffffff",
               "font-size": "20px"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#b8312f"
+              "color": "#c1c1c1"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "color": "#ffffff",
@@ -2323,13 +2509,13 @@
           },
           "_anchor": "features1-1e",
           "_params": {
-            "columnsColor": "#212121",
+            "columnsColor": "#292929",
             "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#212121",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2353,10 +2539,10 @@
               "active": true
             }
           },
-          "title1": "Specifieke BIM onderdelen",
-          "subtitle1": "IFC en model checking",
+          "title1": "De 3 grote factoren",
+          "subtitle1": "BIM, Interactieve 3D en plugins",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"onderdelen#slider3-1x\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"onderdelen#msg-box8-1k\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -2365,10 +2551,10 @@
               "active": true
             }
           },
-          "title2": "VR vs AR",
-          "subtitle2": "Virtuele en augmented reality",
+          "title2": "VR uitgelgd en VR vs AR",
+          "subtitle2": "Virtual en augmented reality",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"onderdelen#slider3-1v\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"onderdelen#msg-box8-1m\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -2377,10 +2563,10 @@
               "active": true
             }
           },
-          "title3": "De 3 grote factoren",
-          "subtitle3": "BIM, Interactieve 3D en plugins",
+          "title3": "VR en AR headsets",
+          "subtitle3": "Oculus rift, HTC vive, Gear VR, Cardboard box en Hololens",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"onderdelen#slider3-1l\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"onderdelen#msg-box8-1o\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -2389,10 +2575,10 @@
               "active": true
             }
           },
-          "title4": "VR en AR Headsets",
-          "subtitle4": "Oculus rift, HTC vive, Gear VR, Cardboard box en  Hololens",
+          "title4": "Specifieke BIM onderdelen",
+          "subtitle4": "IFC en model checking",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"onderdelen#slider3-1r\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"onderdelen#msg-box8-1w\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -2401,10 +2587,10 @@
               "active": true
             }
           },
-          "title5": "specifieke game engine features",
-          "subtitle5": "specifieke game engine features",
+          "title5": "Specifieke game engine features",
+          "subtitle5": "Blueprints",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"onderdelen#slider3-1z\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"onderdelen#msg-box8-1y\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -2424,7 +2610,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2438,7 +2624,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#181818",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2462,17 +2648,17 @@
           "_name": "slider3",
           "_styles": {
             "H2": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2497,21 +2683,23 @@
                 "showTitle": true,
                 "title": "Bouwwerkinformatie model (BIM)",
                 "showText": true,
-                "text": "Voor sommigen onder jullie misschien beter bekend onder de Engelse term: Building Information Modeling. Dit is een digitaal model, opgebouwd uit objecten met specifieke informatie aan gekoppeld, deze info kan bestaan uit vele zaken, zoals wat het object precies is, maar ook grootte, breedte of bijvoorbeeld gebruikte materialen. <br>Het grote voordeel van BIM is de informatie die het bevat, zorgend dat dingen zoals meetstaten, kostenberekeningen en nog vele anderen zaken rapper berekend kunnen worden, zowel als beter controle van bouwknoppen en foutreductie.<br>",
+                "text": "Voor sommigen onder jullie misschien beter bekend onder de engelse term: Building Information Modeling. Dit is een digitaal model, opgebouwd uit objecten met specifieke informatie er aangekoppeld. De info kan vele zaken omvatten, zoals: wat het object precies is, maar ook info omtrent de grootte, breedte of bijvoorbeeld de gebruikte materialen. <br>Het grote voordeel van BIM is dat de informatie die het bevat, zoals meetstaten, kostenberekeningen en nog vele anderen zaken sneller berekend kunnen worden, als zowel betere controle van bouwknopen en foutreductie verzekeren.<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://nl.wikipedia.org/wiki/Bouwwerkinformatiemodel\" data-toolbar=\"-mbrBtnMove\">BIM wikipedia</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://nl.wikipedia.org/wiki/Bouwwerkinformatiemodel\" data-toolbar=\"-mbrBtnMove\">BIM wikipedia</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/mbr-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#ffffff",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Interactief 3D model",
                 "showText": true,
-                "text": "Deze factor is voor velen beter te begrijpen als een game, maar dan voor architectuur: Met de mogelijkheden om virtueel doorheen je gebouw te lopen en zaken aan te passen aan je gebouw, zoals bijvoorbeeld het materiaal en type van een kast. <br>3D modellen vanuit game engines zijn ook sterk door hun mogelijkheden in Virtual Reality. Zorgend dat mensen reeds in het gebouw kunnen rondlopen voor het er zelfs maar staat. Ook op dit vlak zijn er grote stappen voorwaarts gemaakt, zorgend dat er vele nieuwe mogelijkheden kunnen ontstaan voor de bouwwereld.<br>",
+                "text": "Deze factor is voor velen beter te begrijpen als een game, maar dan voor architectuur.<br>Het biedt mogelijkheden om virtueel doorheen je gebouw te lopen en zaken aan te passen zoals bijvoorbeeld het gebruikte materiaal of type van meubilair, locatie van stopcontacten en grootte van deur- en raamopeningen. <br>3D modellen vanuit game engines zijn ook sterk door hun mogelijkheden in Virtual Reality. Zij zorgen dat mensen reeds in het gebouw kunnen rondlopen voor dat het er zelfs maar staat.&nbsp;<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -2526,13 +2714,13 @@
                 "showTitle": true,
                 "title": "Plug-ins",
                 "showText": true,
-                "text": "Een plug-in (ook wel invoegtoepassing) is een aanvulling op een computerprogramma. Plug-ins worden over het algemeen gemaakt om een programma uit te breiden of meer mogelijkheden te geven. Een plug-in heeft de host-applicatie nodig om te kunnen werken en kan niet standalone draaien. Soms worden er wel speciale standalone-versies uitgebracht.<br>Plug-in (of plugin) is het Engelse woord voor iets wat erbij gestoken wordt, en is een algemene term. Een plug-in kan bestaan uit een zelfstandig programma, een dynamic-link library, een script of elke andere vorm.<br>",
+                "text": "Een plug-in (invoegtoepassing) is een aanvulling op een computerprogramma. Plug-ins worden over het algemeen gemaakt om een programma uit te breiden of meer mogelijkheden te geven. Een plug-in heeft de host-applicatie nodig om te kunnen werken en kan niet stand alone draaien. Soms worden er wel speciale stand alone-versies uitgebracht.<br>Een plug-in kan bestaan uit een zelfstandig programma, een dynamic-link library, een script of elke andere vorm.<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
-            "bgColor": "#353535",
+            "bgColor": "#919191",
             "showBullets": true
           },
           "_anchor": "slider3-1l",
@@ -2544,7 +2732,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2558,7 +2746,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#181818",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2567,6 +2755,95 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Wat is Virtual reality?",
+          "text": "<p>Wat zijn VR en AR en wat is het verschil?</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-2g",
+          "_params": {
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#919191",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/kFpepYOykSU",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Virtual reality",
+          "text": "We voelen de wereld aan met onze zintuigen: smaak, tast, geur, zicht en gehoor. Virtuele realiteit richt zich vooral op zicht en gehoor, maar ook op andere zaken zoals evenwichtsgevoel. VR blokt de zintuigelijke waarnemingen af en vervangt deze door een nieuwe, virtueel opgebouwde omgeving van stimulansen en gevoelens, ons teleporterend naar een nieuwe wereld.<br>Er bestaan echter ook andere vormen zoals Augmented reality en 360°, het verschil met VR wordt hier besproken.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "1",
+            "overlayColor": "#292929",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -2582,11 +2859,15 @@
           "_name": "slider3",
           "_styles": {
             "H2": {
-              "color": "#b8312f"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "timeout": 5,
@@ -2603,43 +2884,43 @@
                 "showTitle": true,
                 "title": "VR vs AR",
                 "showText": true,
-                "text": "Virtuele en Augmented reality, gelijkaardig maar toch sterk verschillend, hun sterke en zwakke kanten lees je hier.",
+                "text": "Virtuele en Augmented reality, gelijkaardig maar toch sterk verschillend. <br>Over hun sterke en zwakke kanten lees je hier.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/xiaomi-vr.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/vroem.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Virtual Reality",
                 "showText": true,
-                "text": "Virtual reality simuleert een omgeving. De waarneming zijn meestal visueel en auditief. Met een speciale bril of headset. Vaak is er ook mogelijkheid tot het aanpassen van deze virtuele wereld. Momenteel is VR vooral bekend bij film makers en game creators. <br>Het sterke punt is dat je dingen kunt toonen die niet echt, nog niet of ver weg bestaan, zorgend dat een gebouw, waarvan de funderingen nog uitgegraven worden, reeds in VR zichtbaar is<br>",
+                "text": "Virtual reality simuleert een omgeving. Je verliest de visuele connectie met de realiteit compleet.<br> De waarnemingen zijn meestal visueel en/of auditief, met gebruik van een speciale bril of headset. Vaak is er ook mogelijkheid tot het aanpassen van deze virtuele wereld. Momenteel is VR vooral bekend bij filmmakers en game creators. <br>Het sterke punt is dat je dingen kunt tonen die niet echt,<br>nog niet of ver weg bestaan, zorgend dat een gebouw, waarvan de funderingen nog uitgegraven worden, reeds in VR zichtbaar is<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-8.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/augmented.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.6",
+                "overlayOpacity": "0.3",
                 "overlayColor": "#000000",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Augmented Reality",
                 "showText": true,
-                "text": "In het Nederlands: toegevoegde werkelijkheid. Er word een extra laag aangebracht van elementen bovenop de gewone wereld. Je heb een doorzichtige bril op, waarbij op de glazen projecties worden gemaakt van de nieuwe, virtuele elementen.",
+                "text": "Afgekort: AR.<br>Er is in het nederlands nog niet echt een officiële vertaling voor, maar een goede vertaling zou: “verhoogde of toegevoegde werkelijkheid” zijn. AR toont je de realiteit, maar geeft je de optie om er een extra virtuele laag aan toe te voegen.<br>Hierdoor kan je, zoals bij een x-ray, normaal onzichtbare elementen zien zitten zoals bijvoorbeeld leidingen die in een ondergrond (vloer) of een muur zijn aangelegd of je kunt ook met behulp van AR de precieze plaats van een ligger op de werf opsporen en controleren of hij perfect op de juist locatie ligt, en nog veel meer.<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
-            "bgColor": "#353535",
+            "bgColor": "#919191",
             "showBullets": true
           },
           "_anchor": "slider3-1v",
@@ -2651,7 +2932,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2665,7 +2946,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#181818",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2689,11 +2970,11 @@
           "_name": "slider3",
           "_styles": {
             "H2": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "timeout": 5,
@@ -2712,11 +2993,11 @@
                 "showText": true,
                 "text": "Er zijn vele headsets op de markt, maar wat is het verschil, <br>en welke pak je best voor welke doeleinden?",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.theverge.com/a/best-vr-headset-oculus-rift-samsung-gear-htc-vive-virtual-reality\" data-toolbar=\"-mbrBtnMove\">Een goede vergelijking</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.theverge.com/a/best-vr-headset-oculus-rift-samsung-gear-htc-vive-virtual-reality\" data-toolbar=\"-mbrBtnMove\">Een goede vergelijking</a> "
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/cardboard-box.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cardboard.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2724,13 +3005,13 @@
                 "showTitle": true,
                 "title": "Google cardboard Box",
                 "showText": true,
-                "text": "Low cost<br>De simpelste vorm van VR headset. Letterlijk een kartonen doosje met een stel vergrootglazen in. Voor deze headset heb je wel een Smartphone nodig als scherm, hoe beter de smartphone, hoe beter de kwaliteit. Er zijn dus ook cardboard boxes die het google certificaat niet hebben, maar die hebben vaak minder goede kwaliteit lenzen. Eigenlijk zijn het geen goede headsets voor VR, maar eerder voor 360° videos of andere simpele zaken.<br>",
+                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">De simpelste vorm van low cost VR headset. Letterlijk een kartonnen doosje met een stel vergrootglazen in. Voor deze headset heb je wel een Smartphone nodig als scherm. Hoe beter de smartphone, hoe beter de kwaliteit. Er zijn ook cardboard boxes die geen google-certificaat en vaak een minder goede kwaliteit lenzen hebben.</span><br> Eigenlijk zijn het geen goede headsets voor VR, maar eerder voor 360° videos of andere simpele zaken.<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/samsy-gear-vr.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gear-vr.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2738,13 +3019,13 @@
                 "showTitle": true,
                 "title": "Samsung gear VR",
                 "showText": true,
-                "text": "Een headset van samsung, die dan ook een samsung smatphone nodig heeft om te werken. het gebruik van een gsm brengt drie dingen mee: 1: je hebd geen kabels meer, wat zorgt voor makkelijke transportatie en verplaatsing. 2: je hebd maar beperkte batterij.<br>Puur grafisch is dit met 1440x 1280 pixels per oog een van de beste headsets.Voor deze headsets betaal je zo'n 75 tot 125€..",
+                "text": "Een headset van Samsung, die dan ook een Samsung smartphone nodig heeft om te werken. Het gebruik van een gsm brengt drie dingen mee:<br> 1: je hebt geen kabels nodig, wat zorgt voor gemakkelijk transport. <br>2: je hebt maar een beperkte batterij.<br>3: puur grafisch is dit met 1440x 1280 pixels per oog een van de beste headsets.<br>Voor deze headsets betaal je zo'n 75 tot 125€.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/oculus.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2752,27 +3033,43 @@
                 "showTitle": true,
                 "title": "Oculus Rift",
                 "showText": true,
-                "text": "Een goed begin voor VR beleving. De oculus is verbonden met een computer, wat momenteel nog betekent dat er een knosselboel aan kabels rond je liggen. Er zit bij de oculus een xbox1 controller, maar er zijn ook controllers voor in de hand, al zijn deze nog niet optimaal. Puur grafische en op vlak van snelheid is de oculus een goede keuze, maar de omgeving waarin je kunt rondbewegen is beperkt.<br>",
+                "text": "Een goed begin voor VR beleving. De oculus is verbonden met een computer, wat momenteel nog betekent dat er een knoeiboel aan kabels rond je liggen. Er zit bij de oculus een xbox1 controller, maar er zijn ook controllers met handbediening, al zijn deze nog niet optimaal. Puur grafische en op vlak van snelheid is de oculus een goede keuze, maar de omgeving waarin je kunt rondbewegen is beperkt.<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/htc2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.5",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "HTC vive",
                 "showText": true,
-                "text": "Puur VR ervarings gericht staat de htc vive samen met oculus bovenaan. Het grote pluspunt van de vive zijn de bij hoorende controllers die je de vrijheid geven om dingen te selecteren en aan te passen, zorgend dat interactie nog beter word.  de beweegruimte is door speciaale tracking ook het grootste met 5 op 5 meter. Je hebd echter wel een Pc van behoorlijke sterkte nodig om de volle kapaciteit uit de vive te haalen. Voor ruimtes de verkennen en er in rond te lopen is de htc vive de beste optie.<br>De kostprijs van de htc vive is momenteel 899€<br>",
+                "text": "Puur VR ervaringsgericht staat de htc vive samen met oculus bovenaan. Het grote pluspunt van de vive is dat de bijhorende controllers je de vrijheid geven om dingen te selecteren en aan te passen, zorgend dat de interactie nog beter wordt.<br> De beweegruimte is door speciale tracking ook het grootst (5x 5 meter). Je hebt echter wel een Pc van behoorlijke sterkte nodig om de volle capaciteit uit de vive te halen. Om ruimtes te verkennen en er in rond te lopen is de htc vive de beste optie.<br>De kostprijs van de htc vive is momenteel 899€.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/hololens.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Microsoft Hololens",
+                "showText": true,
+                "text": "Momenteel de enige Augmented reality headset van enige kwaliteit.<br>De hololens is een bril, met lagen die de virtuele elementen projecteren.<br>Door sensoren kunnen ook andere mensen die niet in de buurt zijn, zien wat jij ziet. Hierdoor kan er direct feedback gegeven en duidelijk gecommuniceerd worden.<br>Het gezichtsveld van de hololens  is echter beperkt.<br>Maar eens er meer concurentie is zullen zowel hololens als Augmented reality een grote sprong voorwaarts maken.<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
-            "bgColor": "#353535",
+            "bgColor": "#919191",
             "showBullets": true
           },
           "_anchor": "slider3-1r",
@@ -2784,7 +3081,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2798,7 +3095,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#181818",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2822,11 +3119,15 @@
           "_name": "slider3",
           "_styles": {
             "H2": {
-              "color": "#b8312f"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "timeout": 5,
@@ -2843,28 +3144,28 @@
                 "showTitle": true,
                 "title": "Specifieke BIM onderdelen",
                 "showText": true,
-                "text": "De meest mensen die in de bouwwereld zitten hebben waarschijnlijk reeds gehoord van BIM. Maar IFC en model checking zijn delen die gelinkt zijn met &nbsp;BIM en een belangrijke invloed hebben op hoe ze werken.",
+                "text": "De meeste mensen die in de bouwwereld zitten hebben waarschijnlijk reeds gehoord van BIM. Maar de met BIM gelinkte modules IFC en Model Checking zorgen voor een betere en efficiëntere werking van BIM.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/coding-ifc.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/ifc.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "overlayOpacity": "0.7",
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "IFC",
                 "showText": true,
-                "text": "De Industry Foundation Classes (IFC) is een neutraal en open bestandsformaat voor het uitwisselen van bouwinformatie. IFC is onafhankelijk waardoor men niet gebonden is aan softwarepakketten. Met IFC kan de gehele bouwkolom, van architect tot aannemer en vastgoedbeheerder, communiceren met dezelfde intelligente data. In theorie verloopt dit zonder gegevensverlies, afhankelijk van mate van ondersteuning door het softwarepakket.<br>Het IFC-formaat wordt beheerd door buildingSMART International,&nbsp;",
+                "text": "De Industry Foundation Classes (IFC) is een neutraal en open bestandsformaat voor het uitwisselen van bouwinformatie. IFC is onafhankelijk waardoor men niet gebonden is aan softwarepakketten. Met IFC kan de gehele bouwkolom, van architect tot aannemer en vastgoedbeheerder, communiceren met dezelfde intelligente data. In theorie verloopt dit zonder gegevensverlies, afhankelijk van mate van ondersteuning door het softwarepakket.<br>Het IFC-formaat wordt beheerd door BuildingSMART International,&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://www.buildingsmart-tech.org/\" data-toolbar=\"-mbrBtnMove\">Building Smart</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.buildingsmart-tech.org/\" data-toolbar=\"-mbrBtnMove\">Building Smart</a> "
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/check.jpg",
+                "image": "@PROJECT_PATH@/assets/images/modelchecki.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2872,13 +3173,13 @@
                 "showTitle": true,
                 "title": "Model checking",
                 "showText": true,
-                "text": "Model checking of property checking, houd het volgende in: een model word automatische gecheckt op opgegeven specificaties, dit gebeurt met speciale software programma’s ( bijvoorbeeld solibri) met als specificatie zaken als bijvoorbeeld: een afstand van een lang traject, oppervlaktes, volumes en andere zaken die nuttig kunnen zijn voor kostprijsberekening, veiligheidscontroles, en nog vele andere berekeningen.<br>Om zo een algoritmisch proces goed te laten verlopen moeten er vele verschillende parameters reeds op voorhand goed staan. Model checking werkt meestal met IFC als file format voor hun imports vanuit BIM programmas.<br>",
+                "text": "Model checking of property checking, houd het volgende in: een model word automatisch gecheckt op gegeven specificaties. Dit gebeurt met speciale software programma’s ( bvb solibri) met als specificatie zaken als:<br> een afstand van een lang traject, oppervlaktes, volumes en andere zaken die nuttig kunnen zijn voor kostprijsberekening, veiligheidscontroles, en nog vele andere berekeningen.<br>Om zo een algoritmisch proces goed te laten verlopen moeten er vele verschillende parameters reeds op voorhand goed staan. Model checking werkt meestal met IFC als file format voor hun imports vanuit BIM programma's.<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
-            "bgColor": "#353535",
+            "bgColor": "#919191",
             "showBullets": true
           },
           "_anchor": "slider3-1x",
@@ -2890,7 +3191,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2904,7 +3205,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#181818",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2928,11 +3229,15 @@
           "_name": "slider3",
           "_styles": {
             "H2": {
-              "color": "#b8312f"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "timeout": 5,
@@ -2955,21 +3260,21 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/blueprints.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bluepri.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "Blueprints",
                 "showText": true,
-                "text": "Neen, niet constructie blauwdrukken, maar wel visiueel scripten.<br>Want dat is wat blueprints zijn: een manier om simpel en op een visuele manier scripts te schrijven, zorgend dat ook mensen zonder scripting kennis met game engines kunnen werken. ze dienen voor vele zaken en zijn de drijfveer van iedere actie binnen de Unreal engine.",
+                "text": "Neen, niet constructie blauwdrukken, maar wel visiuele scripten.<br>Want dat is wat blueprints zijn: een manier om simpel en op een visuele manier scripts te schrijven, zorgend dat ook mensen zonder scripting kennis met game engines kunnen werken. Ze dienen voor vele zaken en zijn de drijfveer van iedere actie binnen de Unreal engine.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
-            "bgColor": "#353535",
+            "bgColor": "#919191",
             "showBullets": true
           },
           "_anchor": "slider3-1z",
@@ -2984,9 +3289,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000"
+            "bgColor": "#292929"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to the top</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">Back to the top</a> "
         },
         {
           "_tags": [
@@ -2995,7 +3300,7 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#000000"
+              "background-color": "#292929"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "color": "#ffffff"
@@ -3008,22 +3313,22 @@
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "font-size": "20px",
-              "color": "#b8312f"
+              "color": "#c1c1c1"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "font-size": "20px",
-              "color": "#b8312f"
+              "color": "#c1c1c1"
             }
           },
           "_anchor": "features1-20",
           "_params": {
-            "columnsColor": "#000000",
+            "columnsColor": "#292929",
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#292929",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3049,8 +3354,8 @@
           },
           "title1": "School:",
           "subtitle1": "Howest<br>",
-          "caption1": "adress:&nbsp;<br>Rijselstraat 5<br>8200 Brugge<br>mail:<br>brugge@howest.be<br>Telefoon:<br>050381277<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://www.howest.be/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Site HOwest</a>",
+          "caption1": "adres:&nbsp;<br>Rijselstraat 5<br>8200 Brugge<br>mail:<br>brugge@howest.be<br>telefoon:<br>050 381277<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.howest.be/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Site HOwest</a>",
           "media2": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
@@ -3061,8 +3366,8 @@
           },
           "title2": "Externe begeleider:",
           "subtitle2": "Wouter Van Hauwermeire",
-          "caption2": "Business developer bij POW 3Ddesign<br>adress:<br>Lokerenbaan 114/2<br>9240 Zele<br>mail:<br>info@pow3ddesign.com<br>telefoon:<br>+32 489 56 79 99<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://pow3ddesign.com/nl/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Site POW3Ddesign</a>",
+          "caption2": "Business developer bij POW 3Ddesign<br>adres:<br>Lokerenbaan 114/2<br>9240 Zele<br>mail:<br>info@pow3ddesign.com<br>telefoon:<br>+32 489 56 79 99<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://pow3ddesign.com/nl/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Site POW3Ddesign</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
